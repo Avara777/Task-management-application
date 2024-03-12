@@ -1,0 +1,11 @@
+Scenario 3:
+To open scenario 3/ Part 3 of "Task management application". 
+-install node.JS
+-install express.JS module in same directory as node.JS
+-install sqlite dependencies
+-create 'public' folder in directory where node.JS and express module are downloaded/ installed.
+-paste static files(html, css, Js) in public folder.
+-paste 'app.js' file in node.JS/ express.JS folder.
+-run node and go to specified live port e.g., http://localhost:3000
+
+-!!!enjoy!!!
